@@ -1,0 +1,14 @@
+body,
+html {
+  height: 100%;
+}
+.full-width.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.mapboxgl-map {
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
